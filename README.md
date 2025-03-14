@@ -21,3 +21,6 @@ Programming Language: Python
 Algorithms: K-Means, Mean Shift, Graph-Based Segmentation, Wiener Filter, Region-Growing, Connected Component Analysis
 
 Evaluation Metrics: IoU, Dice Coefficient, Pixel Accuracy
+
+<img width="621" alt="image" src="https://github.com/user-attachments/assets/f3265779-adfb-4e26-bce3-b668cd54f20a" />
+
