@@ -8,8 +8,11 @@ This project addresses these challenges by developing a robust image processing 
 
 # Key Features -
 ✔ Advanced Noise Reduction – Utilizes Gaussian, Median, Wiener, and Bilateral Filters to enhance image clarity and reduce artifacts.
+
 ✔ Multi-Level Segmentation – Implements K-Means, Mean Shift, and Graph-Based Segmentation for extracting vehicle regions.
+
 ✔ Region-Based Processing – Uses Region-Growing and Connected Component Analysis (CCA) to refine detections and remove noise.
+
 ✔ Performance Evaluation – Assesses segmentation accuracy using Intersection over Union (IoU), Dice Coefficient, and Pixel Accuracy.
 
 # Technologies Used -
