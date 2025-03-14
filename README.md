@@ -13,6 +13,8 @@ This project addresses these challenges by developing a robust image processing 
 ✔ Performance Evaluation – Assesses segmentation accuracy using Intersection over Union (IoU), Dice Coefficient, and Pixel Accuracy.
 
 # Technologies Used -
-Programming Language: Python 
+Programming Language: Python
+
 Algorithms: K-Means, Mean Shift, Graph-Based Segmentation, Wiener Filter, Region-Growing, Connected Component Analysis
+
 Evaluation Metrics: IoU, Dice Coefficient, Pixel Accuracy
